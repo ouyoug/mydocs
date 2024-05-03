@@ -104,9 +104,9 @@ export default hopeTheme({
     // 头像
     avatar: "/blog_head_logo.gif",
     // 名称
-    name: "Mr.Tong",
+    name: "无暇",
     // 是否是圆形头像
-    roundAvatar: false,
+    // roundAvatar: false,
     // 个人描述
     description: "你是无意穿堂风 偏偏孤倨引山洪",
     // 社交媒体
@@ -186,7 +186,7 @@ export default hopeTheme({
     // 打开博客功能
     blog: {
       // 在文章列表页面自动提取文章的摘要进行显示
-      // autoExcerpt: true,
+      autoExcerpt: true,
     },
     // 开启git实现编辑此页面-最后更新时间-贡献者功能
     git: true,
